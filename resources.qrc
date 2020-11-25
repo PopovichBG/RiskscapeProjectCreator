@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>types.ini</file>
+        <file>bookmarks.ini</file>
+        <file>SampleFunction.py</file>
+        <file>project.ini</file>
+        <file>RiskScape_Model.bat</file>
+    </qresource>
+</RCC>
